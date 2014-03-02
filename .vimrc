@@ -85,6 +85,7 @@ set wildignore+=*/coverage/*
 " Settings for jedi-vim
 " cd ~/.vim/bundle
 " git clone https://github.com/davidhalter/jedi-vim.git
+" sudo pip install jedi
 " let g:jedi#completions_command = '<Leader>c' " Testing
 " Ctrl-Space for completions. Heck Yeah!
 inoremap <C-Space> <C-X><C-O>
